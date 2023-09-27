@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+}
+html{
+    font-size: 22pt;
+}
+
+.white{
+    color: white 
+}
+
+#yellow{
+    color: yellow
+}
+
+.box {
+    width: 200px; /* Width of the box */
+    height: 100px; /* Height of the box */
+    background-color: #3498db; /* Background color */
+    color: #fff; /* Text color */
+    text-align: center; /* Center-align text */
+    line-height: 100px; /* Vertically center text */
+    font-size: 18px; /* Font size */
+    border: 2px solid #2980b9; /* Border */
+    border-radius: 10px; /* Border radius to round corners */
+    margin: 20px auto; /* Center the box horizontally with margin */
+}
